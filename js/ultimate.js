@@ -14,6 +14,7 @@ const allCars = characters.map(myCar => {
     mAKE: carsYeah.name,
     Id: carsYeah.id,
     Tier: carsYeah.tier,
+    image: carsYeah.image,
     ability1: carsYeah.ability1,
     ability2: carsYeah.ability2,
     ability3: carsYeah.ability3,
@@ -196,13 +197,13 @@ allCars.forEach(myCar => {
       
     }
   
-    // x.onclick = function() {
-    //   exit();
-    // };
+    x.onclick = function() {
+      exit();
+    };
   
-    // function exit () {
-    //   mainContainer.removeChild(abilDiv);
-    // }
+    function exit () {
+      mainContainer.removeChild(abilDiv);
+    }
   
     
     

@@ -9,6 +9,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/1.png",
     },
     {
         "name":"Bowser",
@@ -20,6 +21,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/2.png",
     },
     {
         "name":"Bowser Jr.",
@@ -31,6 +33,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/3.png",
     },
     {
         "name":"Captain Falcon",
@@ -42,6 +45,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/4.png",
     },
     {
         "name":"Charizard",
@@ -53,6 +57,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/5.png",
     },
     {
         "name":"Chrom",
@@ -64,6 +69,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/6.png",
     },
     {
         "name":"Cloud",
@@ -75,6 +81,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/7.png",
     },
     {
         "name":"Corrin",
@@ -86,6 +93,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/8.png",
     },
     {
         "name":"Daisy",
@@ -97,6 +105,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/9.png",
     },
     {
         "name":"Dark Pit",
@@ -108,6 +117,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/10.png",
     },
     {
         "name":"Dark Samus",
@@ -119,6 +129,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/11.png",
     },
     {
         "name":"Diddy Kong",
@@ -130,6 +141,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/12.png",
     },
     {
         "name":"Donkey Kong",
@@ -141,6 +153,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/13.png",
     },
     {
         "name":"Dr. Mario",
@@ -152,6 +165,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/14.png",
     },
     {
         "name":"Duck Hunt",
@@ -163,6 +177,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/15.png",
     },
     {
         "name":"Falco",
@@ -174,6 +189,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/16.png",
     },
     {
         "name":"Fox",
@@ -185,6 +201,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/17.png",
     },
     {
         "name":"Ganondorf",
@@ -196,6 +213,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/18.png",
     },
     {
         "name":"Greninja",
@@ -207,6 +225,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/19.png",
     },
     {
         "name":"Ice Climbers",
@@ -218,6 +237,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/20.png",
     },
     {
         "name":"Ike",
@@ -229,6 +249,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/21.png",
     },
     {
         "name":"Incineroar",
@@ -240,6 +261,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/22.png",
     },
     {
         "name":"Inkling",
@@ -251,6 +273,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/23.png",
     },
     {
         "name":"Isabelle",
@@ -262,6 +285,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/24.png",
     },
     {
         "name":"Ivysaur",
@@ -273,6 +297,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/25.png",
     },
     {
         "name":"Jigglypuff",
@@ -284,6 +309,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/26.png",
     },
     {
         "name":"Ken",
@@ -295,6 +321,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/27.png",
     },
     {
         "name":"King Dedede",
@@ -306,6 +333,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/28.png",
     },
     {
         "name":"King K. Rool",
@@ -317,6 +345,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/29.png",
     },
     {
         "name":"Kirby",
@@ -328,6 +357,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/30.png",
     },
     {
         "name":"Link",
@@ -339,6 +369,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/31.png",
     },
     {
         "name":"Little Mac",
@@ -350,6 +381,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/32.png",
     },
     {
         "name":"Lucario",
@@ -361,6 +393,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/33.png",
     },
     {
         "name":"Lucas",
@@ -372,6 +405,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/34.png",
     },
     {
         "name":"Lucina",
@@ -383,6 +417,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/35.png",
     },
     {
         "name":"Luigi",
@@ -394,6 +429,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/36.png",
     },
     {
         "name":"Mario",
@@ -405,6 +441,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/37.png",
     },
     {
         "name":"Marth",
@@ -416,6 +453,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/38.png",
     },
     {
         "name":"Mega Man",
@@ -427,6 +465,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/39.png",
     },
     {
         "name":"Meta Knight",
@@ -438,6 +477,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/40.png",
     },
     {
         "name":"Mewtwo",
@@ -449,6 +489,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/41.png",
     },
     {
         "name":"Mii Brawler",
@@ -460,6 +501,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/42.png",
     },
     {
         "name":"Mii Gunner",
@@ -471,6 +513,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/43.png",
     },
     {
         "name":"Mii Swordfighter",
@@ -482,6 +525,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/44.png",
     },
     {
         "name":"Mr. Game & Watch",
@@ -493,6 +537,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/45.png",
     },
     {
         "name":"Ness",
@@ -504,6 +549,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/46.png",
     },
     {
         "name":"Olimar",
@@ -515,6 +561,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/47.png",
     },
     {
         "name":"Pac-Man",
@@ -526,6 +573,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/48.png",
     },
     {
         "name":"Palutena",
@@ -537,6 +585,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/49.png",
     },
     {
         "name":"Peach",
@@ -548,6 +597,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/50.png",
     },
     {
         "name":"Pichu",
@@ -559,6 +609,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/51.png",
     },
     {
         "name":"Pikachu",
@@ -570,6 +621,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/52.png",
     },
     {
         "name":"Piranha Plant",
@@ -581,6 +633,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/53.png",
     },
     {
         "name":"Pit",
@@ -592,6 +645,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/54.png",
     },
     {
         "name":"R.O.B",
@@ -603,6 +657,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/55.png",
     },
     {
         "name":"Richter",
@@ -614,6 +669,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/56.png",
     },
     {
         "name":"Ridley",
@@ -625,6 +681,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/57.png",
     },
     {
         "name":"Robin",
@@ -636,6 +693,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/58.png",
     },
     {
         "name":"Rosalina & Luma",
@@ -647,6 +705,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/59.png",
     },
     {
         "name":"Roy",
@@ -658,6 +717,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/60.png",
     },
     {
         "name":"Ryu",
@@ -669,6 +729,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/61.png",
     },
     {
         "name":"Samus",
@@ -680,6 +741,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/62.png",
     },
     {
         "name":"Sheik",
@@ -691,6 +753,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/63.png",
     },
     {
         "name":"Shulk",
@@ -702,6 +765,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/64.png",
     },
     {
         "name":"Simon",
@@ -713,6 +777,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/65.png",
     },
     {
         "name":"Snake",
@@ -724,6 +789,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/66.png",
     },
     {
         "name":"Sonic",
@@ -735,6 +801,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/67.png",
     },
     {
         "name":"Squirtle",
@@ -746,6 +813,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/68.png",
     },
     {
         "name":"Toon Link",
@@ -757,6 +825,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/69.png",
     },
     {
         "name":"Villager",
@@ -768,6 +837,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/70.png",
     },
     {
         "name":"Wario",
@@ -779,6 +849,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/71.png",
     },
     {
         "name":"Wii Fit Trainer",
@@ -790,6 +861,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/72.png",
     },
     {
         "name":"Wolf",
@@ -801,6 +873,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/73.png",
     },
     {
         "name":"Yoshi",
@@ -812,6 +885,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/74.png",
     },
     {
         "name":"Young Link",
@@ -823,6 +897,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/75.png",
     },
     {
         "name":"Zelda",
@@ -834,6 +909,7 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/76.png",
     },
     {
         "name":"Zero Suit Samus",
@@ -845,5 +921,6 @@ export const characters = [
         "fast-fall" :2832,
         "dash": 1936,
         "run-speed":1760,
+        "image":"/images/ultimate/77.png",
     },
 ]
