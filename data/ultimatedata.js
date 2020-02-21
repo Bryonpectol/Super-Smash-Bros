@@ -14,7 +14,7 @@ export const characters = [
     {
         "name":"Bowser",
         "id": 2,
-        "tier":"Tier: D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -26,7 +26,7 @@ export const characters = [
     {
         "name":"Bowser Jr.",
         "id": 3,
-        "tier":"Tier: D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -38,7 +38,7 @@ export const characters = [
     {
         "name":"Captain Falcon",
         "id": 4,
-        "tier":"Tier: D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -50,7 +50,7 @@ export const characters = [
     {
         "name":"Charizard",
         "id": 5,
-        "tier":"Tier: D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -62,7 +62,7 @@ export const characters = [
     {
         "name":"Chrom",
         "id": 6,
-        "tier":"D",
+        "tier":"Tier: B",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -74,7 +74,7 @@ export const characters = [
     {
         "name":"Cloud",
         "id": 7,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -86,7 +86,7 @@ export const characters = [
     {
         "name":"Corrin",
         "id": 8,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -98,7 +98,7 @@ export const characters = [
     {
         "name":"Daisy",
         "id": 9,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -110,7 +110,7 @@ export const characters = [
     {
         "name":"Dark Pit",
         "id": 10,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -122,7 +122,7 @@ export const characters = [
     {
         "name":"Dark Samus",
         "id": 11,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -134,7 +134,7 @@ export const characters = [
     {
         "name":"Diddy Kong",
         "id": 12,
-        "tier":"D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -146,7 +146,7 @@ export const characters = [
     {
         "name":"Donkey Kong",
         "id": 13,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -158,7 +158,7 @@ export const characters = [
     {
         "name":"Dr. Mario",
         "id": 14,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -170,7 +170,7 @@ export const characters = [
     {
         "name":"Duck Hunt",
         "id": 15,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -182,7 +182,7 @@ export const characters = [
     {
         "name":"Falco",
         "id": 16,
-        "tier":"D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -194,7 +194,7 @@ export const characters = [
     {
         "name":"Fox",
         "id": 17,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -206,7 +206,7 @@ export const characters = [
     {
         "name":"Ganondorf",
         "id": 18,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -218,7 +218,7 @@ export const characters = [
     {
         "name":"Greninja",
         "id": 19,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -230,7 +230,7 @@ export const characters = [
     {
         "name":"Ice Climbers",
         "id": 20,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -242,7 +242,7 @@ export const characters = [
     {
         "name":"Ike",
         "id": 21,
-        "tier":"D",
+        "tier":"Tier: C",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -254,7 +254,7 @@ export const characters = [
     {
         "name":"Incineroar",
         "id": 22,
-        "tier":"D",
+        "tier":"Tier: C",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -266,7 +266,7 @@ export const characters = [
     {
         "name":"Inkling",
         "id": 23,
-        "tier":"D",
+        "tier":"Tier: C",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -278,7 +278,7 @@ export const characters = [
     {
         "name":"Isabelle",
         "id": 24,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -290,7 +290,7 @@ export const characters = [
     {
         "name":"Ivysaur",
         "id": 25,
-        "tier":"D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -302,7 +302,7 @@ export const characters = [
     {
         "name":"Jigglypuff",
         "id": 26,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -314,7 +314,7 @@ export const characters = [
     {
         "name":"Ken",
         "id": 27,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -326,7 +326,7 @@ export const characters = [
     {
         "name":"King Dedede",
         "id": 28,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -338,7 +338,7 @@ export const characters = [
     {
         "name":"King K. Rool",
         "id": 29,
-        "tier":"D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -350,7 +350,7 @@ export const characters = [
     {
         "name":"Kirby",
         "id": 30,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -362,7 +362,7 @@ export const characters = [
     {
         "name":"Link",
         "id": 31,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -374,7 +374,7 @@ export const characters = [
     {
         "name":"Little Mac",
         "id": 32,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -386,7 +386,7 @@ export const characters = [
     {
         "name":"Lucario",
         "id": 33,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -398,7 +398,7 @@ export const characters = [
     {
         "name":"Lucas",
         "id": 34,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -410,7 +410,7 @@ export const characters = [
     {
         "name":"Lucina",
         "id": 35,
-        "tier":"D",
+        "tier":"Tier: C",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -422,7 +422,7 @@ export const characters = [
     {
         "name":"Luigi",
         "id": 36,
-        "tier":"D",
+        "tier":"Tier: C",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -434,7 +434,7 @@ export const characters = [
     {
         "name":"Mario",
         "id": 37,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -446,7 +446,7 @@ export const characters = [
     {
         "name":"Marth",
         "id": 38,
-        "tier":"D",
+        "tier":"Tier: C",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -458,7 +458,7 @@ export const characters = [
     {
         "name":"Mega Man",
         "id": 39,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -470,7 +470,7 @@ export const characters = [
     {
         "name":"Meta Knight",
         "id": 40,
-        "tier":"D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -482,7 +482,7 @@ export const characters = [
     {
         "name":"Mewtwo",
         "id": 41,
-        "tier":"D",
+        "tier":"Tier: B",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -494,7 +494,7 @@ export const characters = [
     {
         "name":"Mii Brawler",
         "id": 42,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -506,7 +506,7 @@ export const characters = [
     {
         "name":"Mii Gunner",
         "id": 43,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -518,7 +518,7 @@ export const characters = [
     {
         "name":"Mii Swordfighter",
         "id": 44,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -530,7 +530,7 @@ export const characters = [
     {
         "name":"Mr. Game & Watch",
         "id": 45,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -542,7 +542,7 @@ export const characters = [
     {
         "name":"Ness",
         "id": 46,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -554,7 +554,7 @@ export const characters = [
     {
         "name":"Olimar",
         "id": 47,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -566,7 +566,7 @@ export const characters = [
     {
         "name":"Pac-Man",
         "id": 48,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -578,7 +578,7 @@ export const characters = [
     {
         "name":"Palutena",
         "id": 49,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -590,7 +590,7 @@ export const characters = [
     {
         "name":"Peach",
         "id": 50,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -602,7 +602,7 @@ export const characters = [
     {
         "name":"Pichu",
         "id": 51,
-        "tier":"D",
+        "tier":"Tier: B",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -614,7 +614,7 @@ export const characters = [
     {
         "name":"Pikachu",
         "id": 52,
-        "tier":"D",
+        "tier":"Tier: B",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -626,7 +626,7 @@ export const characters = [
     {
         "name":"Piranha Plant",
         "id": 53,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -638,7 +638,7 @@ export const characters = [
     {
         "name":"Pit",
         "id": 54,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -650,7 +650,7 @@ export const characters = [
     {
         "name":"R.O.B",
         "id": 55,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -662,7 +662,7 @@ export const characters = [
     {
         "name":"Richter",
         "id": 56,
-        "tier":"D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -674,7 +674,7 @@ export const characters = [
     {
         "name":"Ridley",
         "id": 57,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -686,7 +686,7 @@ export const characters = [
     {
         "name":"Robin",
         "id": 58,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -698,7 +698,7 @@ export const characters = [
     {
         "name":"Rosalina & Luma",
         "id": 59,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -710,7 +710,7 @@ export const characters = [
     {
         "name":"Roy",
         "id": 60,
-        "tier":"D",
+        "tier":"Tier: B",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -722,7 +722,7 @@ export const characters = [
     {
         "name":"Ryu",
         "id": 61,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -734,7 +734,7 @@ export const characters = [
     {
         "name":"Samus",
         "id": 62,
-        "tier":"D",
+        "tier":"Tier: G",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -746,7 +746,7 @@ export const characters = [
     {
         "name":"Sheik",
         "id": 63,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -758,7 +758,7 @@ export const characters = [
     {
         "name":"Shulk",
         "id": 64,
-        "tier":"D",
+        "tier":"Tier: C",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -770,7 +770,7 @@ export const characters = [
     {
         "name":"Simon",
         "id": 65,
-        "tier":"D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -782,7 +782,7 @@ export const characters = [
     {
         "name":"Snake",
         "id": 66,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -794,7 +794,7 @@ export const characters = [
     {
         "name":"Sonic",
         "id": 67,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -806,7 +806,7 @@ export const characters = [
     {
         "name":"Squirtle",
         "id": 68,
-        "tier":"D",
+        "tier":"Tier: A",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -818,7 +818,7 @@ export const characters = [
     {
         "name":"Toon Link",
         "id": 69,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -830,7 +830,7 @@ export const characters = [
     {
         "name":"Villager",
         "id": 70,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -842,7 +842,7 @@ export const characters = [
     {
         "name":"Wario",
         "id": 71,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -854,7 +854,7 @@ export const characters = [
     {
         "name":"Wii Fit Trainer",
         "id": 72,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -866,7 +866,7 @@ export const characters = [
     {
         "name":"Wolf",
         "id": 73,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -878,7 +878,7 @@ export const characters = [
     {
         "name":"Yoshi",
         "id": 74,
-        "tier":"D",
+        "tier":"Tier: B",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -890,7 +890,7 @@ export const characters = [
     {
         "name":"Young Link",
         "id": 75,
-        "tier":"D",
+        "tier":"Tier: D",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -902,7 +902,7 @@ export const characters = [
     {
         "name":"Zelda",
         "id": 76,
-        "tier":"D",
+        "tier":"Tier: F",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
@@ -914,7 +914,7 @@ export const characters = [
     {
         "name":"Zero Suit Samus",
         "id": 77,
-        "tier":"D",
+        "tier":"Tier: E",
         "weight": 81,
         "air-speed": 1019,
         "falling-speed": 1770,
