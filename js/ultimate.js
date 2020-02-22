@@ -15,19 +15,10 @@ const allCars = characters.map(myCar => {
     Id: carsYeah.id,
     Tier: carsYeah.tier,
     image: carsYeah.image,
-    ability1: carsYeah.ability1,
-    ability2: carsYeah.ability2,
-    ability3: carsYeah.ability3,
-    ability4: carsYeah.ability4,
-    ability5: carsYeah.ability5,
-    ability6: carsYeah.ability6,
-    ability7: carsYeah.ability7,
-    ability8: carsYeah.ability8,
-    ability9: carsYeah.ability9,
-    ability10: carsYeah.ability10,
-    ability11: carsYeah.ability11,
-    ability12: carsYeah.ability12,
-    ability13: carsYeah.ability13,
+    weight: carsYeah.weight,
+    runSpeed: carsYeah.runspeed,
+    dashSpeed: carsYeah.dash,
+    fallSpeed: carsYeah.fallingspeed,
   };
 });
 
@@ -56,6 +47,10 @@ allCars.forEach(myCar => {
     let imageElement = document.createElement("img");
     let typeElement = document.createElement("p");
     let tierElement = document.createElement("p");
+    let weightElement = document.createElement("p");
+    let runElement = document.createElement("p");
+    let dashElement = document.createElement("p");
+    let fallspeedElement = document.createElement("p");
     let ability1Element = document.createElement("p");
     let ability2Element = document.createElement("p");
     let ability3Element = document.createElement("p");
@@ -78,11 +73,19 @@ allCars.forEach(myCar => {
     // let ability2button = document.createElement("button");
     let x = document.createElement('button');
     let otherAbil = document.createElement('button');
+    let weighthtml = document.createElement("p");
+    let runhtml = document.createElement("p");
+    let dashhtml = document.createElement("p");
+    let fallspeedhtml = document.createElement("p");
   
     ability1button.innerHTML = "Moves";
     // ability2button.innerHTML = "Ability 2";
     x.innerHTML = "X";
     otherAbil.innerHTML = "Other Abilities";
+    weighthtml.innerHTML = "Weight:"
+    runhtml.innerHTML = "Run Speed:"
+    dashhtml.innerHTML = "Dash Speed:"
+    fallspeedhtml.innerHTML = "Fall Speed:"
   
   
     // assigning classes.
@@ -99,6 +102,7 @@ allCars.forEach(myCar => {
     ability4Element.className = "roles";
     ability5Element.className = "roles";
     ability6Element.className = "roles";
+    weightElement.className = "roles";
     ability7Element.className = "roles";
     ability8Element.className = "roles";
     ability9Element.className = "roles";
@@ -117,7 +121,11 @@ allCars.forEach(myCar => {
     roleElement.textContent = myCar.role;
     imageElement.src = myCar.image;
     typeElement.textContent = myCar.type;
-    ability1Element.textContent = myCar.ability1;
+    weightElement.textContent = myCar.weight;
+    runElement.textContent = myCar.runSpeed;
+    dashElement.textContent = myCar.dashSpeed;
+    fallspeedElement.textContent = myCar.fallSpeed;
+    ability1Element.textContent = myCar.ability1Element;
     ability2Element.textContent = myCar.ability2;
     ability3Element.textContent = myCar.ability3;
     ability4Element.textContent = myCar.ability4;
@@ -135,7 +143,7 @@ allCars.forEach(myCar => {
   
     mainContainer.appendChild(makeElement);
     makeElement.appendChild(br2);
-    makeElement.appendChild(tierElement);
+    // makeElement.appendChild(tierElement);
     makeElement.appendChild(typeElement);
     makeElement.appendChild(roleElement);
     makeElement.appendChild(br1);
@@ -155,23 +163,31 @@ allCars.forEach(myCar => {
   
       abilDiv.appendChild(x); 
   
-      abilDiv.appendChild(nameElement);
+      abilDiv.appendChild(tierElement);
   
       abilDiv.appendChild(abilBr1);
+
+      abilDiv.appendChild(weighthtml);
   
-      abilDiv.appendChild(ability2Element);
+      abilDiv.appendChild(weightElement);
   
       abilDiv.appendChild(abilBr2);
   
-      abilDiv.appendChild(ability3Element);
+      abilDiv.appendChild(runhtml);
+      
+      abilDiv.appendChild(runElement);
   
       abilDiv.appendChild(abilBr3);
   
-      abilDiv.appendChild(ability4Element);
+      abilDiv.appendChild(dashhtml);
+
+      abilDiv.appendChild(dashElement);
   
       abilDiv.appendChild(abilBr4);
   
-      abilDiv.appendChild(ability5Element);
+      abilDiv.appendChild(fallspeedhtml);
+
+      abilDiv.appendChild(fallspeedElement);
   
       abilDiv.appendChild(abilBr5);
       
