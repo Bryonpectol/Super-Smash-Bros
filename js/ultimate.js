@@ -77,8 +77,9 @@ allCars.forEach(myCar => {
     let runhtml = document.createElement("p");
     let dashhtml = document.createElement("p");
     let fallspeedhtml = document.createElement("p");
+    let anotherimg = document.createElement("img");
   
-    ability1button.innerHTML = "Moves";
+    ability1button.innerHTML = "Info";
     // ability2button.innerHTML = "Ability 2";
     x.innerHTML = "X";
     otherAbil.innerHTML = "Other Abilities";
@@ -110,6 +111,7 @@ allCars.forEach(myCar => {
     ability11Element.className = "roles";
     ability12Element.className = "roles";
     ability13Element.className = "roles";
+    anotherimg.className = "imagecardyes";
     // ability2button.className = "ability2button";
     x.className = "exit";
     // abilDiv.className = "roles";
@@ -120,6 +122,7 @@ allCars.forEach(myCar => {
     tierElement.textContent = myCar.Tier;
     roleElement.textContent = myCar.role;
     imageElement.src = myCar.image;
+    anotherimg.src = myCar.image;
     typeElement.textContent = myCar.type;
     weightElement.textContent = myCar.weight;
     runElement.textContent = myCar.runSpeed;
@@ -162,6 +165,8 @@ allCars.forEach(myCar => {
       // makeElement.appendChild(ability1Element);
   
       abilDiv.appendChild(x); 
+
+      abilDiv.appendChild(anotherimg);
   
       abilDiv.appendChild(tierElement);
   

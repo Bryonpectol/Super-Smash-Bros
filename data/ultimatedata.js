@@ -4,7 +4,6 @@ export const characters = [
         "id": 1,
         "tier":"Tier: D",
         "universe":"",
-
         "weight": 81,
         "airspeed": 1019,
         "fallingspeed": 1770,
