@@ -19,6 +19,7 @@ const allCars = characters.map(myCar => {
     runSpeed: carsYeah.runspeed,
     dashSpeed: carsYeah.dash,
     fallSpeed: carsYeah.fallingspeed,
+    Link: carsYeah.link,
   };
 });
 
@@ -50,6 +51,7 @@ allCars.forEach(myCar => {
     let weightElement = document.createElement("p");
     let runElement = document.createElement("p");
     let dashElement = document.createElement("p");
+    let linkElement = document.createElement("a");
     let fallspeedElement = document.createElement("p");
     let ability1Element = document.createElement("p");
     let ability2Element = document.createElement("p");
@@ -122,6 +124,8 @@ allCars.forEach(myCar => {
     tierElement.textContent = myCar.Tier;
     roleElement.textContent = myCar.role;
     imageElement.src = myCar.image;
+    // ability1button.href = myCar.Link;
+    linkElement.href = myCar.Link;
     anotherimg.src = myCar.image;
     typeElement.textContent = myCar.type;
     weightElement.textContent = myCar.weight;
@@ -153,6 +157,8 @@ allCars.forEach(myCar => {
     makeElement.appendChild(imageElement);
     makeElement.appendChild(br3);
     makeElement.appendChild(ability1button);
+    // linkElement.setAttribute('href', linkElement);  
+
     // makeElement.appendChild(otherAbil);
     // makeElement.appendChild(ability2button);
   
@@ -163,57 +169,58 @@ allCars.forEach(myCar => {
   
     function Ability1() {
       // makeElement.appendChild(ability1Element);
-  
-      abilDiv.appendChild(x); 
+      window.location.href = linkElement; 
 
-      abilDiv.appendChild(anotherimg);
-  
-      abilDiv.appendChild(tierElement);
-  
-      abilDiv.appendChild(abilBr1);
+      // abilDiv.appendChild(x); 
 
-      abilDiv.appendChild(weighthtml);
+      // abilDiv.appendChild(anotherimg);
   
-      abilDiv.appendChild(weightElement);
+      // abilDiv.appendChild(tierElement);
   
-      abilDiv.appendChild(abilBr2);
+      // abilDiv.appendChild(abilBr1);
+
+      // abilDiv.appendChild(weighthtml);
   
-      abilDiv.appendChild(runhtml);
+      // abilDiv.appendChild(weightElement);
+  
+      // abilDiv.appendChild(abilBr2);
+  
+      // abilDiv.appendChild(runhtml);
       
-      abilDiv.appendChild(runElement);
+      // abilDiv.appendChild(runElement);
   
-      abilDiv.appendChild(abilBr3);
+      // abilDiv.appendChild(abilBr3);
   
-      abilDiv.appendChild(dashhtml);
+      // abilDiv.appendChild(dashhtml);
 
-      abilDiv.appendChild(dashElement);
+      // abilDiv.appendChild(dashElement);
   
-      abilDiv.appendChild(abilBr4);
+      // abilDiv.appendChild(abilBr4);
   
-      abilDiv.appendChild(fallspeedhtml);
+      // abilDiv.appendChild(fallspeedhtml);
 
-      abilDiv.appendChild(fallspeedElement);
+      // abilDiv.appendChild(fallspeedElement);
   
-      abilDiv.appendChild(abilBr5);
+      // abilDiv.appendChild(abilBr5);
       
-      abilDiv.appendChild(ability6Element);
+      // abilDiv.appendChild(ability6Element);
   
-      abilDiv.appendChild(abilBr6);
+      // abilDiv.appendChild(abilBr6);
   
-      abilDiv.appendChild(ability7Element);
+      // abilDiv.appendChild(ability7Element);
   
-      abilDiv.appendChild(abilBr7);
+      // abilDiv.appendChild(abilBr7);
   
-      abilDiv.appendChild(ability8Element);
+      // abilDiv.appendChild(ability8Element);
   
-      abilDiv.appendChild(abilBr8);
+      // abilDiv.appendChild(abilBr8);
   
-      abilDiv.appendChild(ability9Element);
+      // abilDiv.appendChild(ability9Element);
   
-      abilDiv.appendChild(abilBr9);
+      // abilDiv.appendChild(abilBr9);
   
   
-      mainContainer.appendChild(abilDiv);
+      // mainContainer.appendChild(abilDiv);
       
       
     }

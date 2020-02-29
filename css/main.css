@@ -10,7 +10,7 @@ body {
 
 .box {
   text-align: center;
-  width: 300px;
+  width: 700px;
   height: 400px;
   margin: 8px;
   text-align: center;
@@ -24,7 +24,7 @@ body {
 
 .box:hover {
   text-align: center;
-  width: 300px;
+  width: 700px;
   height: 400px;
   margin: 8px;
   text-align: center;
@@ -73,8 +73,13 @@ body {
   margin-right: 100%;
 }
 
+h1 {
+  color: white;
+}
+
 .role {
   font-weight: normal;
+  /* color: white; */
 }
 
 .roles {

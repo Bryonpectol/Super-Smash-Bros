@@ -11,6 +11,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/1.png",
+        "link":"/html/ultimatelinks/bayonetta.html",
     },
     {
         "name":"Bowser",
@@ -23,6 +24,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/2.png",
+        "link":"/html/ultimatelinks/bowser.html",
     },
     {
         "name":"Bowser Jr.",
@@ -35,6 +37,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/3.png",
+        "link":"/html/ultimatelinks/bowserjr.html",
     },
     {
         "name":"Captain Falcon",
@@ -47,6 +50,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/4.png",
+        "link":"/html/ultimatelinks/captfalcon.html",
     },
     {
         "name":"Charizard",
@@ -59,6 +63,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/5.png",
+        "link":"/html/ultimatelinks/pkmontrainer.html",
     },
     {
         "name":"Chrom",
@@ -71,6 +76,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/6.png",
+        "link":"/html/ultimatelinks/chrom.html",
     },
     {
         "name":"Cloud",
@@ -83,6 +89,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/7.png",
+        "link":"/html/ultimatelinks/cloud.html",
     },
     {
         "name":"Corrin",
@@ -95,6 +102,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/8.png",
+        "link":"/html/ultimatelinks/corrin.html",
     },
     {
         "name":"Daisy",
@@ -107,6 +115,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/9.png",
+        "link":"/html/ultimatelinks/daisy.html",
     },
     {
         "name":"Dark Pit",
@@ -119,6 +128,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/10.png",
+        "link":"/html/ultimatelinks/darkpit.html",
     },
     {
         "name":"Dark Samus",
@@ -131,6 +141,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/11.png",
+        "link":"/html/ultimatelinks/darksamus.html",
     },
     {
         "name":"Diddy Kong",
@@ -143,6 +154,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/12.png",
+        "link":"/html/ultimatelinks/diddykong.html",
     },
     {
         "name":"Donkey Kong",
@@ -155,6 +167,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/13.png",
+        "link":"/html/ultimatelinks/donkeykong.html",
     },
     {
         "name":"Dr. Mario",
@@ -167,6 +180,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/14.png",
+        "link":"/html/ultimatelinks/drmario.html",
     },
     {
         "name":"Duck Hunt",
@@ -179,6 +193,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/15.png",
+        "link":"/html/ultimatelinks/duckhunt.html",
     },
     {
         "name":"Falco",
@@ -191,6 +206,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/16.png",
+        "link":"/html/ultimatelinks/falco.html",
     },
     {
         "name":"Fox",
@@ -203,6 +219,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/17.png",
+        "link":"/html/ultimatelinks/fox.html",
     },
     {
         "name":"Ganondorf",
@@ -215,6 +232,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/18.png",
+        "link":"/html/ultimatelinks/ganondorf.html",
     },
     {
         "name":"Greninja",
@@ -227,6 +245,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/19.png",
+        "link":"/html/ultimatelinks/greninja.html",
     },
     {
         "name":"Ice Climbers",
@@ -239,6 +258,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/20.png",
+        "link":"/html/ultimatelinks/iceclimbers.html",
     },
     {
         "name":"Ike",
@@ -251,6 +271,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/21.png",
+        "link":"/html/ultimatelinks/ike.html",
     },
     {
         "name":"Incineroar",
@@ -263,6 +284,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/22.png",
+        "link":"/html/ultimatelinks/incineroar.html",
     },
     {
         "name":"Inkling",
@@ -275,6 +297,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/23.png",
+        "link":"/html/ultimatelinks/inkling.html",
     },
     {
         "name":"Isabelle",
@@ -287,6 +310,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/24.png",
+        "link":"/html/ultimatelinks/isabelle.html",
     },
     {
         "name":"Ivysaur",
@@ -299,6 +323,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/25.png",
+        "link":"/html/ultimatelinks/pkmontrainer.html",
     },
     {
         "name":"Jigglypuff",
@@ -311,6 +336,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/26.png",
+        "link":"/html/ultimatelinks/jigglypuff.html",
     },
     {
         "name":"Ken",
@@ -323,6 +349,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/27.png",
+        "link":"/html/ultimatelinks/ken.html",
     },
     {
         "name":"King Dedede",
@@ -335,6 +362,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/28.png",
+        "link":"/html/ultimatelinks/kingdedede.html",
     },
     {
         "name":"King K. Rool",
@@ -347,6 +375,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/29.png",
+        "link":"/html/ultimatelinks/kingkrool.html",
     },
     {
         "name":"Kirby",
@@ -359,6 +388,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/30.png",
+        "link":"/html/ultimatelinks/kirby.html",
     },
     {
         "name":"Link",
@@ -371,6 +401,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/31.png",
+        "link":"/html/ultimatelinks/link.html",
     },
     {
         "name":"Little Mac",
@@ -383,6 +414,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/32.png",
+        "link":"/html/ultimatelinks/littlemac.html",
     },
     {
         "name":"Lucario",
@@ -395,6 +427,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/33.png",
+        "link":"/html/ultimatelinks/lucario.html",
     },
     {
         "name":"Lucas",
@@ -407,6 +440,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/34.png",
+        "link":"/html/ultimatelinks/lucas.html",
     },
     {
         "name":"Lucina",
@@ -419,6 +453,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/35.png",
+        "link":"/html/ultimatelinks/lucina.html",
     },
     {
         "name":"Luigi",
@@ -431,6 +466,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/36.png",
+        "link":"/html/ultimatelinks/luigi.html",
     },
     {
         "name":"Mario",
@@ -443,6 +479,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/37.png",
+        "link":"/html/ultimatelinks/mario.html",
     },
     {
         "name":"Marth",
@@ -455,6 +492,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/38.png",
+        "link":"/html/ultimatelinks/marth.html",
     },
     {
         "name":"Mega Man",
@@ -467,6 +505,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/39.png",
+        "link":"/html/ultimatelinks/megaman.html",
     },
     {
         "name":"Meta Knight",
@@ -479,6 +518,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/40.png",
+        "link":"/html/ultimatelinks/metaknight.html",
     },
     {
         "name":"Mewtwo",
@@ -491,6 +531,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/41.png",
+        "link":"/html/ultimatelinks/mewtwo.html",
     },
     {
         "name":"Mii Brawler",
@@ -503,6 +544,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/42.png",
+        "link":"/html/ultimatelinks/brawler.html",
     },
     {
         "name":"Mii Gunner",
@@ -515,6 +557,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/43.png",
+        "link":"/html/ultimatelinks/gunner.html",
     },
     {
         "name":"Mii Swordfighter",
@@ -527,6 +570,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/44.png",
+        "link":"/html/ultimatelinks/swordfighter.html",
     },
     {
         "name":"Mr. Game & Watch",
@@ -539,6 +583,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/45.png",
+        "link":"/html/ultimatelinks/mrgandw.html",
     },
     {
         "name":"Ness",
@@ -551,6 +596,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/46.png",
+        "link":"/html/ultimatelinks/ness.html",
     },
     {
         "name":"Olimar",
@@ -563,6 +609,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/47.png",
+        "link":"/html/ultimatelinks/olimar.html",
     },
     {
         "name":"PacMan",
@@ -575,6 +622,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/48.png",
+        "link":"/html/ultimatelinks/pacman.html",
     },
     {
         "name":"Palutena",
@@ -587,6 +635,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/49.png",
+        "link":"/html/ultimatelinks/palutena.html",
     },
     {
         "name":"Peach",
@@ -599,6 +648,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/50.png",
+        "link":"/html/ultimatelinks/peach.html",
     },
     {
         "name":"Pichu",
@@ -611,6 +661,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/51.png",
+        "link":"/html/ultimatelinks/pichu.html",
     },
     {
         "name":"Pikachu",
@@ -623,6 +674,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/52.png",
+        "link":"/html/ultimatelinks/pikachu.html",
     },
     {
         "name":"Piranha Plant",
@@ -635,6 +687,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/53.png",
+        "link":"/html/ultimatelinks/piranhaplant.html",
     },
     {
         "name":"Pit",
@@ -647,6 +700,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/54.png",
+        "link":"/html/ultimatelinks/pit.html",
     },
     {
         "name":"R.O.B",
@@ -659,6 +713,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/55.png",
+        "link":"/html/ultimatelinks/rob.html",
     },
     {
         "name":"Richter",
@@ -671,6 +726,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/56.png",
+        "link":"/html/ultimatelinks/richter.html",
     },
     {
         "name":"Ridley",
@@ -683,6 +739,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/57.png",
+        "link":"/html/ultimatelinks/ridley.html",
     },
     {
         "name":"Robin",
@@ -695,6 +752,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/58.png",
+        "link":"/html/ultimatelinks/robin.html",
     },
     {
         "name":"Rosalina & Luma",
@@ -707,6 +765,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/59.png",
+        "link":"/html/ultimatelinks/rosalina.html",
     },
     {
         "name":"Roy",
@@ -719,6 +778,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/60.png",
+        "link":"/html/ultimatelinks/roy.html",
     },
     {
         "name":"Ryu",
@@ -731,6 +791,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/61.png",
+        "link":"/html/ultimatelinks/ryu.html",
     },
     {
         "name":"Samus",
@@ -743,6 +804,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/62.png",
+        "link":"/html/ultimatelinks/samus.html",
     },
     {
         "name":"Sheik",
@@ -755,6 +817,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/63.png",
+        "link":"/html/ultimatelinks/sheik.html",
     },
     {
         "name":"Shulk",
@@ -767,6 +830,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/64.png",
+        "link":"/html/ultimatelinks/shulk.html",
     },
     {
         "name":"Simon",
@@ -779,6 +843,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/65.png",
+        "link":"/html/ultimatelinks/simon.html",
     },
     {
         "name":"Snake",
@@ -791,6 +856,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/66.png",
+        "link":"/html/ultimatelinks/snake.html",
     },
     {
         "name":"Sonic",
@@ -803,6 +869,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/67.png",
+        "link":"/html/ultimatelinks/sonic.html",
     },
     {
         "name":"Squirtle",
@@ -815,6 +882,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/68.png",
+        "link":"/html/ultimatelinks/pkmontrainer.html",
     },
     {
         "name":"Toon Link",
@@ -827,6 +895,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/69.png",
+        "link":"/html/ultimatelinks/toonlink.html",
     },
     {
         "name":"Villager",
@@ -839,6 +908,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/70.png",
+        "link":"/html/ultimatelinks/villager.html",
     },
     {
         "name":"Wario",
@@ -851,6 +921,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/71.png",
+        "link":"/html/ultimatelinks/wario.html",
     },
     {
         "name":"Wii Fit Trainer",
@@ -863,6 +934,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/72.png",
+        "link":"/html/ultimatelinks/wiifittrainer.html",
     },
     {
         "name":"Wolf",
@@ -875,6 +947,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/73.png",
+        "link":"/html/ultimatelinks/wolf.html",
     },
     {
         "name":"Yoshi",
@@ -887,6 +960,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/74.png",
+        "link":"/html/ultimatelinks/yoshi.html",
     },
     {
         "name":"Young Link",
@@ -899,6 +973,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/75.png",
+        "link":"/html/ultimatelinks/younglink.html",
     },
     {
         "name":"Zelda",
@@ -911,6 +986,7 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/76.png",
+        "link":"/html/ultimatelinks/zelda.html",
     },
     {
         "name":"Zero Suit Samus",
@@ -923,5 +999,6 @@ export const characters = [
         "dash": 1936,
         "runspeed":1760,
         "image":"/images/ultimate/77.png",
+        "link":"/html/ultimatelinks/zsuitsamus.html",
     },
 ]
