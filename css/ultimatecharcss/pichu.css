@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    /* background-color: black; */
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.carousel-inner {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
