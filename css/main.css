@@ -176,7 +176,7 @@ hr {
     display: block;
     width: 28px;
     height: 30px;
-    margin: 30px auto 10px;
+    margin: 30px 10px 10px;
   }
   
   #toggle span:after,
