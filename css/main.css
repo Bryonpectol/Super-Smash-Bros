@@ -163,6 +163,11 @@ hr {
 }
 
 @media only screen and (max-width: 500px) {
+
+.realsec {
+  display: none;
+}
+
 .navdesktop {
   display: none;
 
