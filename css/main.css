@@ -101,17 +101,12 @@ li a {
   width: 150px;
   text-decoration: none;
   transition: all .5s;
-  transition-timing-function: ease;
-  /* transition-property: sliding-vertically; */
 }
 li a:hover,
 li a:focus {
   background: #FFE533;
   color: #09A4B2;
   padding: 5px;
-  transition: all .5s;
-  transition-timing-function: ease;
-  /* transition-property: sliding-vertically; */
 }
 
 .first {
@@ -278,7 +273,6 @@ hr {
   li a:focus {
     background: #1ABC9C;
     /* color: #fff; */
-    transition: all .2s;
   }
   
   
@@ -347,9 +341,6 @@ hr {
 
 .lilink {
   color: white;
-  height: 50px;
-  padding-top: 50px;
-  /* text-align: center; */
 }
 
 
